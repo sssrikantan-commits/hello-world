@@ -265,7 +265,7 @@
             <h2>Shopping Cart</h2>
             <ul id="cart-items">
             </ul>
-            <button id="buy-button" onclick="checkout()">Buy</button>
+            <button id="buy-button" onclick="checkout()">Buy it</button>
         </aside>
     </div>
     <script>
