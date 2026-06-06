@@ -262,7 +262,7 @@
             </div>
         </section>
         <aside id="cart">
-            <h2>Shopping Cart</h2>
+            <h2>Shopping Cart upgraded</h2>
             <ul id="cart-items">
             </ul>
             <button id="buy-button" onclick="checkout()">Buy it</button>
